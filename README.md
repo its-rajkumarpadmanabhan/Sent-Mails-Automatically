@@ -23,6 +23,11 @@ A Python-based automation tool that sends job application emails with a resume a
 * EmailMessage
 * Gmail SMTP
 
-## 📌 Summary
+## 📌 SummaryWHAT IS CODE.PY FOLDER
 
 This project automates the job application process by sending personalized emails with resume attachments to multiple HR contacts. It demonstrates practical use of Python for email automation, file handling, and SMTP communication.
+
+
+## 📌WHAT IS CODE.PY FOLDER
+
+its a orginal file without html template just run "python filename"
