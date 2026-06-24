@@ -1,3 +1,5 @@
+
+<img width="1598" height="704" alt="Screenshot 2026-06-24 145414" src="https://github.com/user-attachments/assets/1f04a0ca-f4eb-496e-a8ad-802ed44b21bf" />
 # 📧 Automated Resume Email Sender
 
 A Python-based automation tool that sends job application emails with a resume attachment to multiple HR email addresses. The script reads recipient emails from a text file, creates professional email messages, attaches a PDF resume, and sends them securely using Gmail SMTP.
